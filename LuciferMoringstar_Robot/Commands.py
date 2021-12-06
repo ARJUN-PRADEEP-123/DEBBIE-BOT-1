@@ -45,7 +45,7 @@ async def start(bot, message):
                 ident, file_id = message.text.split("_-_-_-_")
                 await bot.send_message(
                     chat_id=message.from_user.id,
-                    text="**PLEASE JOIN THE UPDATE CHANNEL BELOW TO USE ME!**"url="https://telegra.ph/file/8005b3498755b538efa3c.jpg",
+                    photo="https://telegra.ph/file/8005b3498755b538efa3c.jpg",
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
