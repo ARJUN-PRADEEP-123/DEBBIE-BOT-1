@@ -1,4 +1,7 @@
 
+<p align="center">
+<img src="https://telegra.ph/file/8005b3498755b538efa3c.jpg">
+</p>
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/DalinMathew/AutoFilterBotV3?style=social)
 <img src="https://img.shields.io/github/forks/DalinMathew/AutoFilterBotV3?style=social"></img>
